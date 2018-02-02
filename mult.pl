@@ -1,0 +1,2 @@
+mult(N1,N2,RESULT):-
+	RESULT is N1*N2.
